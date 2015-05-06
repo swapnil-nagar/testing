@@ -1,3 +1,2 @@
 # testing
-
-Testing
+Testing the GitHub Repository
